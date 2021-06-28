@@ -89,4 +89,46 @@ h1{
     border-radius: 50%;
     padding: 10px ;
     box-shadow: 0 0 10px 1px rgba(37, 73, 214, 0.18);
+    position: absolute;
+    left: 20px;
+    bottom: -25px;
+}
+
+.feature-img{
+    position: relative;
+}
+
+.rating{
+    padding: 3px;
+    float: right;
+    background: #fff;
+    bottom: -1px;
+    right: 0;
+    position: absolute;
+}
+
+.features .fa{
+    font-size: 15px;
+    color: #ff5722;
+
+}
+
+.features-details{
+    padding: 20px;
+    text-align: justify;
+}
+
+.features-details h4{
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.features-details .fa{
+    margin-right: 5px;
+
+}
+
+.feature-box{
+    box-shadow:  0 0 10px 1px rgba(37, 73, 214, 0.18);
+    margin-bottom: 30px;
 }
