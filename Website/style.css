@@ -151,13 +151,15 @@ h1{
 }
 
 .gallery-box h4{
-    width: 200px;
+    display: block;
     color: #fff;
     text-shadow: -2px 2px 2px #000;
     font-weight: 600;
+    font-size: 20px;
     position: absolute;
     top: 50%;
     left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .gallery-box{
