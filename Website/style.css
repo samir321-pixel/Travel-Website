@@ -162,7 +162,23 @@ h1{
     transform: translate(-50%, -50%);
 }
 
+.banner{
+    height: 80%;
+    background-image: url(images/banner2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 12%;
+}
+
 .gallery-box{
     position: relative;
     margin-bottom: 30px;
+}
+
+.banner-highlights{
+    padding: 20px 0;
+    background: rgba(0,0,0,0.7);
+    text-align: center;
+    color: #fff;
 }
