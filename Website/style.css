@@ -41,7 +41,7 @@
 }
 
 .input-group{
-    margin: 90%;
+    margin: 90% !important;
     max-width: 500px;
     border-radius: 30px;
     background: #fff;
@@ -230,7 +230,7 @@ h1{
 }
 
 .footer{
-    padding: 100px 20px;
+    padding: 100px 20px 15px;
     background-image: linear-gradient(#2d557d,#9610fd);
     color: #fff;
 
@@ -252,4 +252,24 @@ h1{
     font-size: 12px;
     text-align: justify;
     padding-right: 35px;
+}
+
+.footer .row .fa{
+    padding-right: 20px;
+    font-size: 15px;
+}
+
+.footer hr{
+    margin-top: 10px;
+    background: #efefef;
+}
+
+.fa-heart{
+    margin: 0 5px;
+    color: #f44336;
+}
+
+.footer .copyright{
+    text-align: center;
+
 }
