@@ -228,3 +228,28 @@ h1{
     left: 44%;
     top: -20px;
 }
+
+.footer{
+    padding: 100px 20px;
+    background-image: linear-gradient(#2d557d,#9610fd);
+    color: #fff;
+
+}
+
+.footer-logo{
+    width: 150px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.footer h4{
+    text-align: left;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+.footer p{
+    font-size: 12px;
+    text-align: justify;
+    padding-right: 35px;
+}
