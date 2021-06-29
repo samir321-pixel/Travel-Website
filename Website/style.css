@@ -27,6 +27,7 @@
     border-radius: 50px;
     background: transparent;
     color: #fff;
+    float: right;
 }
 
 .header h1{
@@ -168,7 +169,7 @@ h1{
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
-    padding-top: 12%;
+    padding-top: 14%;
 }
 
 .gallery-box{
@@ -181,4 +182,15 @@ h1{
     background: rgba(0,0,0,0.7);
     text-align: center;
     color: #fff;
+}
+
+.booking-btn{
+    width: 120px;
+    padding: 8px 0;
+    outline: none !important;
+    border: 2px solid #fff;
+    border-radius: 50px;
+    background: transparent;
+    color: #fff;
+    margin-top: 20px;
 }
